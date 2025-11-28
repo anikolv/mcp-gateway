@@ -1,0 +1,16 @@
+C:\dev\mcp-gateway\src\main\java\com\example\mcpgateway\config\AppConfig.java
+C:\dev\mcp-gateway\src\main\java\com\example\mcpgateway\controller\AskAiController.java
+C:\dev\mcp-gateway\src\main\java\com\example\mcpgateway\dto\AskAiRequest.java
+C:\dev\mcp-gateway\src\main\java\com\example\mcpgateway\dto\AskAiResponse.java
+C:\dev\mcp-gateway\src\main\java\com\example\mcpgateway\dto\ExchangeRate.java
+C:\dev\mcp-gateway\src\main\java\com\example\mcpgateway\dto\OllamaChatRequest.java
+C:\dev\mcp-gateway\src\main\java\com\example\mcpgateway\dto\OllamaChatResponse.java
+C:\dev\mcp-gateway\src\main\java\com\example\mcpgateway\dto\ToolCall.java
+C:\dev\mcp-gateway\src\main\java\com\example\mcpgateway\dto\ToolResult.java
+C:\dev\mcp-gateway\src\main\java\com\example\mcpgateway\mcp\MCPServerConfig.java
+C:\dev\mcp-gateway\src\main\java\com\example\mcpgateway\mcp\MCPTool.java
+C:\dev\mcp-gateway\src\main\java\com\example\mcpgateway\mcp\tools\GetExchangeRatesTool.java
+C:\dev\mcp-gateway\src\main\java\com\example\mcpgateway\McpGatewayApplication.java
+C:\dev\mcp-gateway\src\main\java\com\example\mcpgateway\service\LLMService.java
+C:\dev\mcp-gateway\src\main\java\com\example\mcpgateway\service\MCPServerStarter.java
+C:\dev\mcp-gateway\src\main\java\com\example\mcpgateway\service\ToolDispatchService.java
