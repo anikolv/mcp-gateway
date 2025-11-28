@@ -14,6 +14,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/ask-ai")
+@CrossOrigin(origins = "*") // Allow CORS for web interface
 public class AskAiController {
 
     private static final Logger log = LoggerFactory.getLogger(AskAiController.class);
